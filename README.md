@@ -95,19 +95,3 @@ python rgb2.py
 ## 📝 Lisans
 
 Bu proje eğitim amaçlı oluşturulmuştur. Kodlar açık kaynak olarak paylaşılmaktadır.
-
-## 🤝 Katkıda Bulunma
-
-1. Bu repository'yi fork edin
-2. Yeni bir branch oluşturun (`git checkout -b feature/yeni-ozellik`)
-3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik eklendi'`)
-4. Branch'inizi push edin (`git push origin feature/yeni-ozellik`)
-5. Pull Request oluşturun
-
-## 📞 İletişim
-
-Proje hakkında sorularınız için GitHub Issues kullanabilirsiniz.
-
----
-
-**Not:** Bu proje, görsel işleme ve matematiksel görselleştirme konularında eğitim amaçlı oluşturulmuştur. 
